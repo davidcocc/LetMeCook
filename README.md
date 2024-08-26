@@ -12,11 +12,11 @@ Those ingredients will be used by the chatbot, who will keep in mind personal pr
 
 A .unitypackage file will be uploaded as soon as possible, making possible to build an .apk file which can be executed on the user's Android device.
 
-### ⚠️ Please keep in mind that A Internet connection is required for the app to work. ⚠️
+### ⚠️ Please keep in mind that a Internet connection and a working device camera are required for the app to work. ⚠️
 
 ## Credits 👨🏻‍👦🏻‍👦🏻
 
-This project has been realized for the Fundamentals of Data Science and Machine Learning exam in University of Salerno by:
+This project has been realized for the Information Visualization exam in University of Salerno by:
 
 [Coccorullo David](https://github.com/davidcocc)
 
